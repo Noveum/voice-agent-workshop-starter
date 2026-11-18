@@ -1,5 +1,7 @@
 # Workshop Runbook — Vibe-Code a Voice AI Agent
 
+This runbook accompanied the Frontier Tower workshop hosted by [Shashank Agarwal](https://www.linkedin.com/in/shashankagarwal2/). [Workshop agenda](https://luma.com/vibe-code-a-voice-ai-agent-in-3-hours-li)
+
 > Frontier Tower, 10th Floor Annex · Thu May 14, 2026 · 4:30–7:30 PM PT
 >
 > 🍕 Pizza and drinks provided · 🤝 50 builders · 💻 BYO laptop · free
