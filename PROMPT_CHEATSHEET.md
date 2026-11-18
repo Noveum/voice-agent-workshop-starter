@@ -1,5 +1,7 @@
 # Prompt Cheatsheet
 
+These prompts accompanied the workshop hosted by [Shashank Agarwal](https://www.linkedin.com/in/shashankagarwal2/). See the [stage-by-stage runbook](WORKSHOP.md) for when each prompt was used.
+
 The prompts you'll paste into **Cursor** (or `claude` CLI) — in order through the workshop.
 
 > Open Cursor in this repo (`cursor .`) or Claude Code (`claude`). Both read `CLAUDE.md`
