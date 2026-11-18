@@ -6,6 +6,8 @@ This is the starter repo for the **Vibe-Code a Voice AI Agent** workshop at Fron
 
 ---
 
+The [original workshop page](https://luma.com/vibe-code-a-voice-ai-agent-in-3-hours-li) credits [Shashank Agarwal](https://www.linkedin.com/in/shashankagarwal2/) as host.
+
 ## Setup — complete these 6 steps first
 
 Work through these at the start of the workshop. Step 1 (signups) may need a few minutes — start there while the intro is running.
